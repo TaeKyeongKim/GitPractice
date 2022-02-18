@@ -1,6 +1,6 @@
 # GitPractice
 This is a test
 \n
-From step 6 
+From step 8 
 
 
